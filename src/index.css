@@ -1,0 +1,16 @@
+body {
+  padding: 0;
+  background-color: rgb(245, 255, 102);
+  font-family: sans-serif;
+}
+
+#container {
+  display:flex;
+  justify-content:flex;
+}
+h1,
+.button
+#input-field {
+  flex:1;
+}
+
